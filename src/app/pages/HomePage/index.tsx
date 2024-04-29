@@ -54,7 +54,7 @@ export function HomePage() {
               todo={{
                 id: '2',
                 completed: true,
-                content: '투두 입니다 1',
+                content: '투두 입니다 2',
                 editing: false,
               }}
             ></TodoItem>
@@ -62,7 +62,7 @@ export function HomePage() {
               todo={{
                 id: '3',
                 completed: true,
-                content: '투두 입니다 1',
+                content: '투두 입니다 3',
                 editing: false,
               }}
             ></TodoItem>
